@@ -1,0 +1,9 @@
+langchain-groq
+langchain-openai
+mcp[cli]
+mcp-use
+nest-asyncio
+openai==1.75.0
+python-dotenv
+ipykernel
+httpx
